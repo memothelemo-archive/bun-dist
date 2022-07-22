@@ -12,6 +12,9 @@ you may want to compile from [equal-l2's repository](https://github.com/equal-l2
 - I have non-AVX2 machine but I don't know if it can be compiled on that machine because I compiled it on a cloud server.
 *Let me know if you managed to compile this thing! :)*
 
+## Issues
+- Managing packages will give an `Instruction Error`. (I'm going to figure out why is that so)
+
 ## What is the purpose of this repository?
 This repository is for distributing compiled binaries of Bun designed for older CPUs that
 do not have AVX2 capability.
