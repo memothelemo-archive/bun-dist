@@ -8,6 +8,7 @@ for pushing support for non-AVX2 CPUs in purpose of publishing bun on [some pack
 you may want to download the official binary of bun instead.
 - These are precompiled binaries provided from me. If you're not confident on running these executables from unknown source,
 you may want to compile from [equal-l2's repository](https://github.com/equal-l2/bun). (This will take around 30 minutes to 2 hours to compile)
+- This binaries are not verified if bun is stable enough to use non-AVX2 instructions. Do it at your own risk.
 
 ## What is the purpose of this repository?
 This repository is for distributing compiled binaries of Bun designed for older CPUs that
